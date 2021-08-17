@@ -12,7 +12,11 @@
 <br>
 <div> 
   <a href="https://www.linkedin.com/in/caique-patelli-scapeline" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:caique.scapeline@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:caique.scapeline@fatec.sp.gov.br" margin-left="4px"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.figma.com/@CaiquePs" target="_blank"><img src="https://img.shields.io/badge/-Figma-%23333?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+ <a href="https://www.tinkercad.com/users/fjBIEKmwPew-caique-patelli-scapeline?category=circuits&sort=likes&view_mode=default" target="_blank"><img src="https://img.shields.io/badge/-TinkerCad-%23333?style=for-the-badge&logo=tinkercad&logoColor=white" target="_blank"></a>
+ <!--<a href="https://caiqueps.itch.io/" target="_blank"><img src="https://img.shields.io/badge/-Itch.io-%23333?style=for-the-badge&logo=itchio&logoColor=white" target="_blank"></a>-->
 </div>
+ 
  
 <!--![Snake animation](https://github.com/CaiquePatelliScapeline/CaiquePatelliScapeline/blob/output/github-contribution-grid-snake.svg)-->
